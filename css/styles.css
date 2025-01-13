@@ -1,0 +1,24 @@
+/* CUSTOM FOTO */
+.objectfit {
+  display: flex;
+  justify-content: flex-start;
+}
+.objectfit > img {
+  width: 11rem;
+  height: 11rem;
+  object-fit: cover;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: blue;
+  border: 3px solid red;
+}
+
+#wrapper {
+  margin-left: 2.5%;
+  width: 95%;
+  border-radius: 5%;
+  background-color: blue;
+}
+
+/*# sourceMappingURL=styles.css.map */

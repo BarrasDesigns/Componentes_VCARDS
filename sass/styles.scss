@@ -1,0 +1,13 @@
+@use 'header';
+@use 'variables';
+
+
+
+// GLOBALES
+
+#wrapper {
+    margin-left: 2.5%;
+    width: 95%;
+    border-radius: 5%;
+    background-color: variables.$fondo1;
+}
